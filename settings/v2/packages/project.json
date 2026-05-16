@@ -1,0 +1,66 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 2560,
+      "height": 1408
+    }
+  },
+  "physics": {
+    "collisionMatrix": {
+      "0": 0,
+      "1": 204,
+      "2": 818,
+      "3": 1026,
+      "4": 4,
+      "5": 4,
+      "6": 2,
+      "7": 2,
+      "8": 4,
+      "9": 4,
+      "10": 8
+    },
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "PLAYER"
+      },
+      {
+        "index": 2,
+        "name": "ENEMY"
+      },
+      {
+        "index": 3,
+        "name": "SUPPLY"
+      },
+      {
+        "index": 4,
+        "name": "CLOSE"
+      },
+      {
+        "index": 5,
+        "name": "RANGE"
+      },
+      {
+        "index": 6,
+        "name": "ENEMY_RANGE"
+      },
+      {
+        "index": 7,
+        "name": "ENEMY_BULLET"
+      },
+      {
+        "index": 8,
+        "name": "PLAYER_BUULET"
+      },
+      {
+        "index": 9,
+        "name": "WEAPON"
+      },
+      {
+        "index": 10,
+        "name": "SUPPLY_RANGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "supplies": [
+    {
+      "id": 1,
+      "name": "supply_1",
+      "gold": 1,
+      "exp": 1,
+      "weight": 0.25
+    },{
+      "id": 2,
+      "name": "supply_2",
+      "gold": 1,
+      "exp": 1,
+      "weight": 0.25
+    },
+    {
+      "id": 3,
+      "name": "supply_3",
+      "gold": 1,
+      "exp": 1,
+      "weight": 0.25
+    },
+    {
+      "id": 4,
+      "name": "supply_special",
+      "gold": 2,
+      "exp": 1,
+      "weight": 0.14
+    },
+    {
+      "id": 5,
+      "name": "boss_supply",
+      "gold": 5,
+      "exp": 5,
+      "weight": 0
+    }
+  ]
+}

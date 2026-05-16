@@ -1,0 +1,58 @@
+{
+  "waves": [
+    {
+      "waveNumber": 1,
+      "name": "新手训练",
+      "duration": 25,
+      "enemyCount": 40,
+      "spawnInterval": 1,
+      "enemyTypes": [
+        "normalEnemy"
+      ],
+      "bossWave": false,
+      "infiniteMode": false
+    },
+    {
+      "waveNumber": 2,
+      "name": "快速威胁",
+      "duration": 30,
+      "enemyCount": 40,
+      "spawnInterval": 0.7,
+      "enemyTypes": [
+        "normalEnemy",
+        "fastEnemy"
+      ],
+      "bossWave": false,
+      "infiniteMode": false
+    },
+    {
+      "waveNumber": 3,
+      "name": "射手突袭",
+      "duration": 35,
+      "enemyCount": 40,
+      "spawnInterval": 1,
+      "enemyTypes": [
+        "normalEnemy",
+        "fastEnemy",
+        "shootEnemy"
+      ],
+      "bossWave": false,
+      "infiniteMode": false
+    },
+    {
+      "waveNumber": 4,
+      "name": "坦克来袭",
+      "duration": 40,
+      "enemyCount": 40,
+      "spawnInterval": 1,
+      "enemyTypes": [
+        "normalEnemy",
+        "fastEnemy",
+        "shootEnemy",
+        "tankEnemy"
+      ],
+      "bossWave": false,
+      "infiniteMode": false
+    }
+  ]
+}

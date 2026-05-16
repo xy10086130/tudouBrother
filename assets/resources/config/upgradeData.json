@@ -1,0 +1,124 @@
+{
+  "upgrades": [
+    {
+      "id": 1,
+      "type": "max_hp",
+      "iconSprite": "Max_HP_Upgrade",
+      "name": "心脏",
+      "desc": "+3最大生命值",
+      "effect": 3
+    },
+    {
+      "id": 2,
+      "type": "hp_regeneration",
+      "iconSprite": "HP_Regeneration_Upgrade",
+      "name": "肺部",
+      "desc": "+2生命再生",
+      "effect": 2
+    },
+    {
+      "id": 3,
+      "type": "life_steal",
+      "iconSprite": "Life_Steal_Upgrade",
+      "name": "牙齿",
+      "desc": "+1生命窃取",
+      "effect": 1
+    },
+    {
+      "id": 4,
+      "type": "damage",
+      "iconSprite": "Damage_Upgrade",
+      "name": "三头肌",
+      "desc": "+5基础伤害",
+      "effect": 5
+    },
+    {
+      "id": 5,
+      "type": "melee_damage",
+      "iconSprite": "Melee_Damage_Upgrade",
+      "name": "前臂",
+      "desc": "+2近战伤害",
+      "effect": 2
+    },
+    {
+      "id": 6,
+      "type": "ranged_damage",
+      "iconSprite": "Ranged_Damage_Upgrade",
+      "name": "肩部",
+      "desc": "+1远程伤害",
+      "effect": 1
+    },
+    {
+      "id": 7,
+      "type": "elemental_damage",
+      "iconSprite": "Elemental_Damage_Upgrade",
+      "name": "大脑",
+      "desc": "+1元素伤害",
+      "effect": 1
+    },
+    {
+      "id": 8,
+      "type": "attack_speed",
+      "iconSprite": "Attack_Speed_Upgrade",
+      "name": "反射",
+      "desc": "+5攻击速度",
+      "effect": 5
+    },
+    {
+      "id": 9,
+      "type": "crit_chance",
+      "iconSprite": "Crit_Chance_Upgrade",
+      "name": "手指",
+      "desc": "+3暴击率",
+      "effect": 3
+    },
+    {
+      "id": 10,
+      "type": "Engineering",
+      "iconSprite": "Engineering_Upgrade",
+      "name": "骷髅",
+      "desc": "+2工程",
+      "effect": 2
+    },
+    {
+      "id": 11,
+      "type": "attack_range",
+      "iconSprite": "Range_Upgrade",
+      "name": "眼睛",
+      "desc": "+15攻击范围",
+      "effect": 15
+    },
+    {
+      "id": 12,
+      "type": "armor",
+      "iconSprite": "Armor_Upgrade",
+      "name": "胸部",
+      "desc": "+1护甲",
+      "effect": 1
+    },
+    {
+      "id": 13,
+      "type": "dodge",
+      "iconSprite": "Dodge_Upgrade",
+      "name": "后背",
+      "desc": "+3闪避",
+      "effect": 3
+    },
+    {
+      "id": 14,
+      "type": "speed",
+      "iconSprite": "Speed_Upgrade",
+      "name": "腿部",
+      "desc": "+3速度",
+      "effect": 3
+    },
+    {
+      "id": 15,
+      "type": "luck",
+      "iconSprite": "Luck_Upgrade",
+      "name": "鼻子",
+      "desc": "+5运气",
+      "effect": 5
+    }
+  ]
+}

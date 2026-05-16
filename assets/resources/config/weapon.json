@@ -1,0 +1,28 @@
+{
+    "weapons": [
+        {
+            "id": 1,
+            "name": "fist",
+            "type": "close",
+            "damage": 8,
+            "range": 500,
+            "cooltime": 0.78,
+            "speed": 200,
+            "effect": "punch_general_body_impact_01"
+        },
+        {
+            "id": 2,
+            "name": "pistol",
+            "type": "range",
+            "damage": 15,
+            "range": 500,
+            "cooltime": 1,
+            "speed": 0,
+            "effect": "gun_silenced_sniper1_shot_04v2",
+            "bulletSpeed": 3000,
+            "bulletLifeTime": 2,
+            "bulletPrefab": "prefabs/weapons/bullet",
+            "pierce": 2
+        }
+    ]
+}

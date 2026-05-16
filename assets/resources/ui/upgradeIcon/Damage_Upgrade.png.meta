@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b382035b-3063-417c-8b20-54b34392580f",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b382035b-3063-417c-8b20-54b34392580f@6c48a",
+      "displayName": "Damage_Upgrade",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "b382035b-3063-417c-8b20-54b34392580f",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "b382035b-3063-417c-8b20-54b34392580f@f9941",
+      "displayName": "Damage_Upgrade",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 12,
+        "width": 86,
+        "height": 66,
+        "rawWidth": 90,
+        "rawHeight": 90,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -43,
+            -33,
+            0,
+            43,
+            -33,
+            0,
+            -43,
+            33,
+            0,
+            43,
+            33,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            2,
+            78,
+            88,
+            78,
+            2,
+            12,
+            88,
+            12
+          ],
+          "nuv": [
+            0.022222222222222223,
+            0.13333333333333333,
+            0.9777777777777777,
+            0.13333333333333333,
+            0.022222222222222223,
+            0.8666666666666667,
+            0.9777777777777777,
+            0.8666666666666667
+          ],
+          "minPos": [
+            -43,
+            -33,
+            0
+          ],
+          "maxPos": [
+            43,
+            33,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b382035b-3063-417c-8b20-54b34392580f@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "b382035b-3063-417c-8b20-54b34392580f@6c48a"
+  }
+}

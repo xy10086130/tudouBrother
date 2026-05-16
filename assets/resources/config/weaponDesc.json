@@ -1,0 +1,100 @@
+{
+  "weaponDesc": [
+    {
+      "id": 0,
+      "name": "冰锥",
+      "criticalHit": "x3",
+      "damage": "10",
+      "scope": "400",
+      "cooling": "1.03"
+    },
+    {
+      "id": 1,
+      "name": "拳头",
+      "criticalHit": "x0.2",
+      "damage": "8",
+      "scope": "500",
+      "cooling": "0.78"
+    },
+    {
+      "id": 2,
+      "name": "盗贼匕首",
+      "criticalHit": "x2",
+      "damage": "6",
+      "scope": "150",
+      "cooling": "1.01"
+    },
+    {
+      "id": 3,
+      "name": "粉碎者",
+      "criticalHit": "x2",
+      "damage": "6",
+      "scope": "150",
+      "cooling": "1.01"
+    },
+    {
+      "id": 4,
+      "name": "小刀",
+      "criticalHit": "x2.5",
+      "damage": "6",
+      "scope": "150",
+      "cooling": "1.01"
+    },
+    {
+      "id": 5,
+      "name": "双管霰弹枪",
+      "criticalHit": "x2",
+      "damage": "3x4",
+      "scope": "350",
+      "cooling": "1.37"
+    },
+    {
+      "id": 6,
+      "name": "雷光刀",
+      "criticalHit": "x2",
+      "damage": "3",
+      "scope": "150",
+      "cooling": "1.01"
+    },
+    {
+      "id": 7,
+      "name": "激光枪",
+      "criticalHit": "x2",
+      "damage": "40",
+      "scope": "500",
+      "cooling": "1.98"
+    },
+    {
+      "id": 8,
+      "name": "幽魂燧石",
+      "criticalHit": "x2",
+      "damage": "6",
+      "scope": "150",
+      "cooling": "1.23"
+    },
+    {
+      "id": 9,
+      "name": "刺棍",
+      "criticalHit": "x2",
+      "damage": "10",
+      "scope": "200",
+      "cooling": "1.68"
+    },
+    {
+      "id": 10,
+      "name": "木板",
+      "criticalHit": "x2",
+      "damage": "10",
+      "scope": "150",
+      "cooling": "1.23"
+    },
+    {
+      "id": 11,
+      "name": "石头",
+      "criticalHit": "x1.5",
+      "damage": "20",
+      "scope": "150",
+      "cooling": "1.68"
+    }
+  ]
+}
