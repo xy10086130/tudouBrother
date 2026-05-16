@@ -1,6 +1,6 @@
 # tudouBrother
 
-一款使用 **Cocos Creator + TypeScript** 开发的 2D 生存射击类游戏项目。
+一款使用 **Cocos Creator + TypeScript** 开发的仿土豆兄弟项目。
 
 玩家在游戏中可以选择角色和武器，进入战斗场景后通过移动、射击、拾取补给和升级属性，尽可能在一波又一波的敌人攻势中生存下来。
 
